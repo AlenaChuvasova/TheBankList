@@ -1,10 +1,12 @@
 TheBankList
 
 ClientBankList application that output required data from the database
-technologies used: Maven, MVC, JDBC, MySQL, TomCat, Servlet:
+
+Technologies used: Maven, MVC, JDBC, MySQL, TomCat, Servlet:
 
 Requirements:
 Maven 3.3.*
+
 JDK 11.0.1
 
 For program execution:
