@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Varela Round', sans-serif;
+    margin-left: 50px;
+}
+
+#navbar {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    padding: 0;
+    list-style-type: none;
+    width: 300px;
+    background-color: #9097a9;
+}
+
+#navbar li {
+    border: 1.5px solid #054c4e;
+    height: 123px;
+}
+
+#navbar li input {
+    color: #0618f1;
+    height: 35px;
+    width: 295px;
+}
+
+#navbar li button {
+    width: 295px;
+    height: 35px;
+    color: #313d48;
+    font-weight: bold;
+    padding-bottom: 0px;
+}
+
+#navbar li form label {
+    text-align: center;
+    font-size: 14px;
+}
+
+h3, output {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 15%;
+}
+
+th, td {
+    text-align: left;
+    padding: 10px;
+}
+
+li button:nth-child(2) {
+    margin-top: 32px
+}
+
+tr:nth-child(even) {
+    background-color: #80c0a3
+}
+
+th {
+    background-color: #67a477;
+    color: #f0e7cf;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+a:link {
+    color: #265301;
+}
+
+a:visited {
+    color: #437A16;
+}
+
+a:focus {
+    border-bottom: 1px solid;
+    background: #BAE498;
+}
+
+a:hover {
+    border-bottom: 1px solid;
+    background: #CDFEAA;
+}
+
+a:active {
+    background: #265301;
+    color: #CDFEAA;
+}
